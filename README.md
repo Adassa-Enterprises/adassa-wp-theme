@@ -1,2 +1,2 @@
-# adassa-wp-theme
+# Adassa WordPress Theme
 A WordPress theme
